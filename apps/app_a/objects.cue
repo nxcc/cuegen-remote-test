@@ -1,6 +1,6 @@
 package kube
 
-value: "some value"
+value: "app-a"
 
 configMap: [ID=_]: {
 	metadata: {name: "\(ID)"}
